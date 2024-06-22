@@ -1,16 +1,17 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💛
 
-<!--
-**mirellatalevi/Mirellatalevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mirella Talevi
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na Limguagem JavaScript
+- Utilizo esse espaço para minha organização e compatilhamento dos meus projetos desenvolvodos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Voce pode entrar em contato comigo 📫
+
+  mirella.talevi.oliveira@escoal.pr.gov.br
+
+  
+
+![]()
+![image](https://github.com/mirellatalevi/Mirellatalevi/assets/173559668/46b3ee8b-6876-4f34-8317-2b45832d3b04)
+
